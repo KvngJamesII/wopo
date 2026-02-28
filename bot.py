@@ -16,7 +16,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 # CONFIGURATION
 # ============================================
 BOT_TOKEN = "8722526230:AAElK-moaq1hLmsk2wd9LGLvw4z0WQA4b54"
-GROUP_ID = "-1003804984426"
+GROUP_ID = "-1003420206708"
 ADMIN_ID = 7648364004
 
 PANEL_CONFIG = {
@@ -723,3 +723,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
